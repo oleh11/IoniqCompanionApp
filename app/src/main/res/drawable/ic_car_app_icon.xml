@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Minimalist In-Car Android Auto High-Contrast Iskra Spark -->
+
+    <!-- Left Facet (Cyan) -->
+    <path
+        android:fillColor="#00C6FF"
+        android:pathData="
+            M23.5,8
+            C23.5,16.5 16.5,23.5 8,23.5
+            L8,24.5
+            C16.5,24.5 23.5,31.5 23.5,40
+            L23.5,8
+            Z" />
+
+    <!-- Right Facet (Blue) -->
+    <path
+        android:fillColor="#0072CE"
+        android:pathData="
+            M24.5,8
+            C24.5,16.5 31.5,23.5 40,23.5
+            L40,24.5
+            C31.5,24.5 24.5,31.5 24.5,40
+            L24.5,8
+            Z" />
+
+    <!-- Center White Diamond Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,20.5 L27,24 L24,27.5 L21,24 Z" />
+
+</vector>

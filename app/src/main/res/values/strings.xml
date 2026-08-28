@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Iskra EV Companion</string>
+    <string name="car_app_name">Iskra Auto</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="battery">Battery</string>
+    <string name="charging">Charging</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="settings">Settings</string>
+</resources>

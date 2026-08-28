@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Іскра EV Companion</string>
+    <string name="car_app_name">Іскра Auto</string>
+    <string name="dashboard">Поїздка</string>
+    <string name="battery">Батарея</string>
+    <string name="charging">Зарядка</string>
+    <string name="vehicle">Авто</string>
+    <string name="diagnostics">Діагностика</string>
+    <string name="settings">Налаштування</string>
+</resources>

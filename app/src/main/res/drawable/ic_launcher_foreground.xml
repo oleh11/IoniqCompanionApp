@@ -1,0 +1,73 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Minimalist Iskra (Spark) Emblem -->
+
+    <!-- Left Kinetic Facet (Electric Cyan Gradient) -->
+    <path
+        android:pathData="
+            M53.2,22
+            C53.2,39 39,53.2 24,53.2
+            L24,54.8
+            C39,54.8 53.2,69 53.2,86
+            L53.2,22
+            Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="22"
+                android:endX="54"
+                android:endY="86"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#7DD3FC"/>
+                <item android:offset="0.4" android:color="#00C6FF"/>
+                <item android:offset="1.0" android:color="#0072CE"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Right Kinetic Facet (Deep Azure Shadow Facet) -->
+    <path
+        android:pathData="
+            M54.8,22
+            C54.8,39 69,53.2 84,53.2
+            L84,54.8
+            C69,54.8 54.8,69 54.8,86
+            L54.8,22
+            Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="84"
+                android:startY="22"
+                android:endX="54"
+                android:endY="86"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#38BDF8"/>
+                <item android:offset="0.5" android:color="#0284C7"/>
+                <item android:offset="1.0" android:color="#034574"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Center Precision Diamond Core Accent -->
+    <path
+        android:pathData="M54,46 L60.5,54 L54,61.5 L47.5,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="47.5"
+                android:startY="46"
+                android:endX="60.5"
+                android:endY="61.5"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF"/>
+                <item android:offset="0.6" android:color="#E0F2FE"/>
+                <item android:offset="1.0" android:color="#38BDF8"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+</vector>
